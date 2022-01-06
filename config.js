@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'bit.ly/officialgrupkanaobot'
+gc1 = 'https://chat.whatsapp.com/DebwMOR22xV9dzToTx4NU8'
 gc2 = ''
 gc3 = ''
-global.linkGC = ['bit.ly/officialgrupkyurabot'] // ganti jadi group lu
-global.owner = ['6281998903280'] // Put your number here //owner eval
-global.kontak = ['6281998903280'] //Ketika ada yang ngetik #owner
-global.mods = ['6281998903280'] // Want some help?
-global.prems = ['6281998903280'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/DebwMOR22xV9dzToTx4NU8'] // ganti jadi group lu
+global.owner = ['6283117436733'] // Put your number here //owner eval
+global.kontak = ['6283117436733'] //Ketika ada yang ngetik #owner
+global.mods = ['6283117436733'] // Want some help?
+global.prems = ['6281331493321'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -44,24 +44,24 @@ global.APIKeys = { // APIKey Here
 lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = '057f32b5931c3bce'
-//xteam     KYURABOT
+//xteam     MIYUKIBOT
 namaig = 'bit.ly/instagramkyura'
-namagithub = 'bit.ly/githubkyura'
+namagithub = 'bit.ly/githubBLZXB5'
 kasihcaption = `Nihh...`
-namakontak1 = 'Kyura'
-namakontak2 = 'Ardhi'
+namakontak1 = 'BLZB5'
+namakontak2 = 'Syah Ganteng'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'From' // ganti aja
-global.author = 'KyuraBOT' // ganti aja
+global.packname = 'From Miyuki Sticker' // ganti aja
+global.author = 'BLZXB5' // ganti aja
 
 //yyy
-bc = 'KanaoBOT' //RFK Broadcast
-footer = '\n©Kyura'
-namabot = 'KanaoBOT'
-namalu = 'Kyura'
+bc = 'MiyukiBC' //RFK Broadcast
+footer = '\n©Miyuki'
+namabot = 'MiyukiBotz'
+namalu = 'BLZB5'
 
 
 // 
